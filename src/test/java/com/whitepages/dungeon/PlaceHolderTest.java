@@ -6,7 +6,7 @@ public class PlaceHolderTest {
 
 	@Test
 	public void test1() {
-		System.out.println("placeholder test");
+		System.out.println("placeholder test 2");
 	}
 
 }
